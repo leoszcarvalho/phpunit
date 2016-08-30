@@ -1,0 +1,8 @@
+{
+    "autoload": {
+      "psr-0": {"Application\\": "src/"}
+    },
+    "require": {
+        "phpunit/phpunit": "^5.5"
+    }
+}

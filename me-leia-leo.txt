@@ -1,0 +1,7 @@
+1 - Primeiro precisa ter o composer instalado na máquina
+2 - Com o composer instalado criar uma pasta de projeto
+e lançar o comando 'composer global require "phpunit/phpunit=5.5.0"'
+3 - Lançar o comando 'phpunit tests/Teste'
+4 - Se houver erro de comando phpunit não reconhecido precisa adicionar 
+o caminho da vendo do composer nas variáveis do Windows geralmente esse caminho
+'C:\Users\Administrador\AppData\Roaming\Composer\vendor\bin'
